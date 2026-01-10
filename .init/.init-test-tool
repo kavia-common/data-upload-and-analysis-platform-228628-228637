@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/data-upload-and-analysis-platform-228628-228637/ingest_backend"
+}
